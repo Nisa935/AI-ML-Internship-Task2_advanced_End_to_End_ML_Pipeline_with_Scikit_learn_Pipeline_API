@@ -57,7 +57,7 @@ Dataset is not included in this repository due to size. Please download it and p
 
 Best Model: Logistic Regression
 
----
+--
 
 ## Key Observations
 
