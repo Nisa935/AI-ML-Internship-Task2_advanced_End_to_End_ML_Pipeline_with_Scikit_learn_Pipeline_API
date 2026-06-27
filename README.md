@@ -65,6 +65,4 @@ Best Model: Logistic Regression
 - Logistic Regression slightly outperformed Random Forest.
 - Pipeline ensures a clean, reusable, and production-ready workflow.
 
----
 
-## Project Structure
